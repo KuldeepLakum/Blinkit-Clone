@@ -1,5 +1,7 @@
-🛒 Blinkit Clone
+🛒 Blinkit Clone  
+
 https://kuldeeplakum.github.io/Blinkit-Clone/
+
 A fully responsive Blinkit (Grocery Delivery App) Clone built using HTML and CSS, with media queries to ensure smooth responsiveness across all device sizes including mobile, tablet, and desktop.
 
 🚀 Features
